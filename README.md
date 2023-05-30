@@ -29,3 +29,7 @@ and find patterns and duplicate content.
 
 
 A framework created to query tools from nokiacodesearch and a custom tool. Abstract classes and SOLID principles are used to make this framework. For nokiacodesearch files, please refer to https://github.com/nokia/codesearch.
+
+
+For the files necessary for the custom framework, please refer to https://github.com/hamelsmu/code_search/blob/master/notebooks/5%20-%20Build%20Search%20Index.ipynb.
+The loaded models can be found.
